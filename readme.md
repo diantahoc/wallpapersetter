@@ -1,4 +1,4 @@
-This is a simple program that let you change the visible portion of a wallpaper so I you can get the canvas that you want to see.
+This is a simple program that lets you change the visible portion of a wallpaper. Background color fill is supported so if you have a smaller image with some background color you can make a larger wallpaper.
 
 It's very handy, especially when using minimalist wallpapers, or if the wallpaper is larger than your screen.
 
